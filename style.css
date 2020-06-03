@@ -47,7 +47,7 @@ body {
 }
 
 .portrait {
-    background-image: url(bbb.png);
+    background-image: url(images/bbb.png);
     background-size: cover;
     background-position: center;
     padding-top: 56.25%; /* 16:9 */
@@ -129,7 +129,7 @@ body {
 }
 
 .icons a {
-    background-image: url(icons.png);
+    background-image: url(images/icons.png);
     width: 30px;
     height: 30px;
     display: inline-block;
