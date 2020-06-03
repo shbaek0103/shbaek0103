@@ -47,7 +47,7 @@ body {
 }
 
 .portrait {
-    background-image: url(img/bbb.png);
+    background-image: url(https://cafeptthumb-phinf.pstatic.net/MjAyMDA2MDNfMjQ3/MDAxNTkxMTg0OTIwNjI5.WAYgibO-baulJpHxlSLilRD4oMV4R_u_CE-Tayk46O4g.B5r6OeTa3dkvsHf-xBJifQjale25_m8iaCjh5DIjhuMg.PNG/bbb.png?type=w800);
     background-size: cover;
     background-position: center;
     padding-top: 56.25%; /* 16:9 */
@@ -129,7 +129,7 @@ body {
 }
 
 .icons a {
-    background-image: url(img/icons.png);
+    background-image: url(https://cafeptthumb-phinf.pstatic.net/MjAyMDA2MDNfNDkg/MDAxNTkxMTg0OTIxMTAw.QutakVJMfzNNjJjNKB7iISdyYxUAi7X2vBBpJnbYpm0g.Jr9YoWw5z-SSF93NOuNLF9G0YjmcbddS5XkNN3H5RaIg.PNG/icons.png?type=w800);
     width: 30px;
     height: 30px;
     display: inline-block;
